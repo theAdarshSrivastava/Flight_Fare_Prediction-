@@ -1,4 +1,4 @@
-python==3.9.0
+python==3.8.3
 pickleshare==0.7.5
 Flask==1.1.2
 Flask-Cors==3.0.10
