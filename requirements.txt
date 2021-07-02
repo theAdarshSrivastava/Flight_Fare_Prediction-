@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 argon2-cffi==18.3.0
 attrs==20.3.0
 backcall==0.2.0
