@@ -24,3 +24,6 @@ The dataset maybe accessed <a href = "https://www.kaggle.com/nikhilmittal/flight
 
         python3 app.py
         
+## Deployment
+You can visit the website by clicking the link given below:-
+Click here:-<a href = "https://flight-price-predict0r.herokuapp.com/">flight-fare-predictor</a>.
