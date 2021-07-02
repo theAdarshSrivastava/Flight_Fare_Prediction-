@@ -7,3 +7,20 @@ The dataset used in this project can be downloaded from the link given below. Th
 test_data.
 The dataset maybe accessed <a href = "https://www.kaggle.com/nikhilmittal/flight-fare-prediction-mh/">here</a>.
 
+## Usage
+- Cloning the Repository: 
+
+        git clone https://github.com/theAdarshSrivastava/Flight_Fare_Prediction-
+        
+- Entering the directory: 
+
+        cd Flight_Fare_Prediction-
+        
+- Setting up the Python Environment with dependencies:
+
+        pip install -r requirements.txt
+
+- Running the file:
+
+        python3 app.py
+        
